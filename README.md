@@ -1,5 +1,4 @@
-# ENHANCED COMPUTATIONAL MODELING OF URBAN EVACUATION  
-## Reverse Dynamic Dijkstra-Based Routing and Hazard Penalty Simulation in Mesoscopic Cellular Automata
+# ENHANCED COMPUTATIONAL MODELING OF URBAN EVACUATION: Reverse Dynamic Dijkstra-Based Routing and Hazard Penalty Simulation in Mesoscopic Cellular Automata
 
 ##  Overview
 This repository contains the map datasets used in the study:
