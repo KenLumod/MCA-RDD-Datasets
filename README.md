@@ -23,14 +23,14 @@ The datasets represent real-world environments transformed into mesoscopic struc
 
 ---
 
-## 📊 Dataset Coverage
+##  Dataset Coverage
 
 ###  Primary Datasets (Used in Results)
 - USTP Cagayan de Oro Campus  
 - USEP Campus  
 - Gusa Capistrano Complex (CapCom)  
 
-### ⚙️ Supplementary Datasets (Testing Only)
+###  Supplementary Datasets (Testing Only)
 - Barbara Map, Kauswagan, Cagayan de Oro  
 - Caraga State University Campus  
 
